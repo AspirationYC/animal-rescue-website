@@ -1,0 +1,14 @@
+html {
+  font-family: "PT Sans", sans-serif;
+}
+
+.welcome-banner {
+  width: 100%;
+  background-color: gray;
+}
+
+.nav-bar,
+footer {
+  background-color: #067EC5;
+
+}
